@@ -2,5 +2,6 @@
 /.project
 /.matadata
 /.settings
-/target/
+/target
+*.tif
 *~
